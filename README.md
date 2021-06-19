@@ -30,10 +30,10 @@ Stocka is an inventory digital solution that will take account of trader's sales
 
 ```
 Switch to the branch you created on the repo. 
-By doing that you would have seen a button **compare/pull request**. 
+By doing that you would have seen a button compare/pull request. 
 Click the button, which will then take you to a page to provide the title and description for the pull request. 
 After that, press the pull request button to submit a pull request. 
-With that you are done, it's left for the cordinator to **review and merge**
+With that you are done, it's left for the cordinator to review and merge
 ```
    
  **Do not merge your pull request yourself. Wait for review and merging from the coordinator.**

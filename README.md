@@ -1,9 +1,7 @@
 # Wejpa-Todo
 Stocka is an inventory digital solution that will take account of trader's sales and stocks, calculates their profits or losses over a specific period of time and offer suggestions to build profits.
 
-# Contributingg to this project
-  
-  **STEPS : **
+# Steps To Contributing to the project
   
 1. Fork the repo.
 
@@ -30,8 +28,6 @@ Stocka is an inventory digital solution that will take account of trader's sales
 
 7. Come back to this repo and open a pull request on the branch you created.
 
-   switch to the branch you created on the repo. By doing that you would have seen a button that said *compare/pull request*. press the button, which will then take you to a 
+   switch to the branch you created on the repo. By doing that you would have seen a button that said *compare/pull request*. press the button, which will then take you to a page to provide the title and description for the pull request. After that, then press the pull request button to submit a pull request. With that you are done, it's left for the reviewer to *review* and *merge*
    
-   page to provide the title and description for the pull request. After that, then press the pull request button to submit a pull request. With that you are done, it's left for      the reviewer to *review* and *merge*
-   
-   **Do not merge your pull request yourself. Wait for review and merging from the coordinator.**
+ **Do not merge your pull request yourself. Wait for review and merging from the coordinator.**
